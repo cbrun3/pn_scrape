@@ -1,0 +1,1 @@
+###### a short project demonstrating web scraping using Beautiful Soup 4 & Requests, scripted against Precision Nutrition's Encyclopedia of Food: https://www.precisionnutrition.com/encyclopedia
